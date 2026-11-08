@@ -1,0 +1,5 @@
+Student: De Jesus
+Student ID: TUPM-26-1944
+Seed digit: 4
+ID sum: 26
+Verification value: 212

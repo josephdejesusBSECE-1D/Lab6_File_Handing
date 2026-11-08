@@ -1,0 +1,14 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+-------------------------------------
+Last Name: De Jesus
+Student ID: TUPM-26-1944
+Seed Digit: 4
+ID Sum: 26
+Verification Value: 212
+Dataset: household_power_consumption.txt
+Dataset Status: NOT FOUND
+Dataset Sample Size: 76
+Valid Records: 0
+Average Global Active Power: unavailable
+JSON File: De Jesus_TUPM-26-1944_record.json
+Backup File: De Jesus_TUPM-26-1944_record.csv
