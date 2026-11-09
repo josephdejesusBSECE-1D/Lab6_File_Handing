@@ -1,0 +1,15 @@
+{
+    "student_name": "De Jesus",
+    "student_id": "TUPM-26-1944",
+    "target_year": 2019,
+    "total_records_in_dataset": 30,
+    "incidents_in_target_year": 3,
+    "count_per_attack_type": {
+        "Ransomware": 1,
+        "Phishing": 1,
+        "Data Breach": 1
+    },
+    "total_financial_loss_usd_millions": 16.45,
+    "average_financial_loss_usd_millions": 5.48,
+    "data_source_note": "Synthetic demo data; not real incident records."
+}

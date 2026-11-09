@@ -1,0 +1,21 @@
+======================================================================
+              EXERCISE 3: CYBERSECURITY INCIDENT REPORT               
+======================================================================
+Target Year            : 2019
+Data Source            : Synthetic demo data; not real incidents
+Total Dataset Records  : 30
+Incidents in 2019     : 3
+Attack Type Counts     : {'Ransomware': 1, 'Phishing': 1, 'Data Breach': 1}
+Total Financial Loss   : $16.45 Million
+Avg Financial Loss     : $5.48 Million
+----------------------------------------------------------------------
+Five Costliest Incidents:
+  1. ID: CYB-2019-001 | Loss: $7.80M | Type: Ransomware
+  2. ID: CYB-2019-003 | Loss: $6.40M | Type: Data Breach
+  3. ID: CYB-2019-002 | Loss: $2.25M | Type: Phishing
+----------------------------------------------------------------------
+Filtered CSV File      : filtered_cybersecurity_2019.csv
+JSON Summary File      : cybersecurity_summary_2019.json
+Backup Verification    : VERIFIED
+Text Report File       : cybersecurity_report_2019.txt
+======================================================================
