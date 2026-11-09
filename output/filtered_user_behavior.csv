@@ -1,0 +1,21 @@
+User ID,Device Model,Operating System,Battery Drain (mAh/day),Data Usage (MB/day)
+USER-0009,Device-9,Android,315.33,111.0
+USER-0019,Device-7,Android,772.05,115.91
+USER-0029,Device-5,Android,278.35,134.49
+USER-0039,Device-3,Android,835.91,89.09
+USER-0049,Device-1,Android,897.09,100.89
+USER-0059,Device-11,Android,373.83,119.34
+USER-0069,Device-9,Android,201.91,139.78
+USER-0079,Device-7,Android,403.56,110.84
+USER-0089,Device-5,Android,222.7,84.42
+USER-0099,Device-3,Android,562.74,20.5
+USER-0109,Device-1,Android,566.83,132.69
+USER-0119,Device-11,Android,817.72,53.36
+USER-0129,Device-9,Android,204.95,47.81
+USER-0139,Device-7,Android,230.28,104.94
+USER-0149,Device-5,Android,470.77,13.62
+USER-0159,Device-3,Android,454.78,116.27
+USER-0169,Device-1,Android,316.83,149.19
+USER-0179,Device-11,Android,871.9,56.6
+USER-0189,Device-9,Android,648.18,67.47
+USER-0199,Device-7,Android,472.42,109.44
